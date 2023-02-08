@@ -7,7 +7,7 @@ A responsive website for a food restaurant, showcasing menu items and allowing c
 * Food menu with images and detailed information
 * Easy ordering system with options for delivery or pick-up
 * Secure payment options
-* Contact form for customers to get in touch with restaurant
+* Contact through contact us section  
 * Social media integration to follow restaurant updates
 
 ## Built With
@@ -31,6 +31,14 @@ A responsive website for a food restaurant, showcasing menu items and allowing c
 
 
 ![image](https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/Video%20and%20Order%20Section.png)
+
+
+## How to use  
+1. Simply visit the website and browse through the food menu    
+2. Menu section displaying all available items  
+3. Online ordering system with Zomato patner and secure payment options  
+4. Information about the restaurant, including location   
+5. You can also get in touch with the restaurant through the contact form or by following them on social media.Information about the restaurant, including location and hours    
 
 ## How to run locally
 1. Clone the repository.  
