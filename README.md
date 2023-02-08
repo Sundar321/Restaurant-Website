@@ -50,7 +50,7 @@ cd Restaurant-Website
 Contributions are welcome. Please open an issue or submit a pull request if you would like to contribute to the project.
 
 
-Author
+Author  
 Bhanu Sundar Kunchala
 
 
