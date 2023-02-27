@@ -11,7 +11,7 @@ A responsive website for a food restaurant, showcasing menu items and allowing c
 * Social media integration to follow restaurant updates
 
 ## Built With
-* HTML
+* HTML 
 * CSS
 * Javascript 
 * Bootstrap
