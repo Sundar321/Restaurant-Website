@@ -18,10 +18,6 @@ A responsive website for a food restaurant, showcasing menu items and allowing c
 
 ## Screenshots
 1. **Homepage**  
-<details>
-  <summary>So</summary>
-  <img alt="Description" src="(https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/Homepage.png">
-</details>
 
 ![image](https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/Homepage.png)
 
@@ -30,7 +26,7 @@ A responsive website for a food restaurant, showcasing menu items and allowing c
 
 ![image](https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/menu%20Section.png)
 
-2. **Video & Delivery**  
+3. **Video & Delivery**  
 
 
 ![image](https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/Video%20and%20Order%20Section.png)
